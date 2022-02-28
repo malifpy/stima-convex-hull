@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/malifpy/Alif/Git/stima-convex-hull/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Convex Hull Implementation using Divide and Conquer	README.md	/^# Convex Hull Implementation using Divide and Conquer$/;"	c
+LRPoint	src/myConvexHull.py	/^def LRPoint(p_l, p_r, p_x):$/;"	f
+PLdist	src/myConvexHull.py	/^def PLdist(p_l, p_r, p_x):$/;"	f
+Pseudocode	README.md	/^## Pseudocode$/;"	s	chapter:Convex Hull Implementation using Divide and Conquer
+Requirements	README.md	/^## Requirements$/;"	s	chapter:Convex Hull Implementation using Divide and Conquer
+arr	src/myConvexHull.py	/^    arr = np.array([$/;"	v
+clean	Makefile	/^clean:$/;"	t
+display_myConvexHull	src/main.py	/^def display_myConvexHull(data, dataset_name, x_index, y_index):$/;"	f
+display_save_myConvexHull	src/main.py	/^def display_save_myConvexHull(data, dataset_name, x_index, y_index, directory="img"):$/;"	f
+fig_myConvexHull	src/main.py	/^def fig_myConvexHull(data, dataset_name, x_index, y_index):$/;"	f
+filterPart	src/myConvexHull.py	/^def filterPart(p_l, p_r, bucket):$/;"	f
+get_random_color	src/main.py	/^def get_random_color():$/;"	f
+hull	src/myConvexHull.py	/^    hull = myConvexHull(arr)$/;"	v
+install	Makefile	/^install:$/;"	t
+main	src/main.py	/^def main():$/;"	f
+main	src/test.py	/^def main():$/;"	f
+maxDistPointLine	src/myConvexHull.py	/^def maxDistPointLine(p_l, p_r, points):$/;"	f
+min_max_X	src/myConvexHull.py	/^def min_max_X(bucket):$/;"	f
+myConvexHull	src/myConvexHull.py	/^def myConvexHull(bucket):$/;"	f
+myConvexHullPart	src/myConvexHull.py	/^def myConvexHullPart(p_l, p_r, points, is_left):$/;"	f
+np	src/main.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	src/myConvexHull.py	/^import numpy as np$/;"	I	nameref:module:numpy
+pd	src/main.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+plt	src/main.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	src/myConvexHull.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+pythDist	src/myConvexHull.py	/^def pythDist(v):$/;"	f
+query	src/main.py	/^def query():$/;"	f
+run	Makefile	/^run:$/;"	t
+save_myConvexHull	src/main.py	/^def save_myConvexHull(data, dataset_name, x_index, y_index, directory="img", filename=""):$/;"	f
+test	Makefile	/^test:$/;"	t
+x	src/myConvexHull.py	/^        x = [simpul[0][0], simpul[1][0]]$/;"	v
+y	src/myConvexHull.py	/^        y = [simpul[0][1], simpul[1][1]]$/;"	v
